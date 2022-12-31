@@ -9,3 +9,7 @@ Rust를 이용하여 웹어셈블리를 구현하기 위한 코스([https://rust
 # Hello, World!
 
 "Hello, World!"를 알리는 웹 페이지를 빌드하고 실행
+
+# Hybrid Applications with Webpack
+
+- webpack을 이용한 웹앱에 번들
