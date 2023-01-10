@@ -23,3 +23,9 @@ Rust를 이용하여 웹어셈블리를 구현하기 위한 코스([https://rust
 ## console
 
 `npm init rust-webpack console`
+
+## importing-js
+
+export function or class
+
+`npm init rust-webpack importing-js`
