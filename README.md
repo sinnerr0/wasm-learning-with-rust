@@ -14,6 +14,12 @@ Rust를 이용하여 웹어셈블리를 구현하기 위한 코스([https://rust
 
 - webpack을 이용한 웹앱에 번들(Hybrid Applications with Webpack)
 
+`npm init rust-webpack wasm-webpack`
+
 ## hello_world
 
 - webpack base project
+
+## console
+
+`npm init rust-webpack console`
